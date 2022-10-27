@@ -17,10 +17,25 @@
             "published_date": "2022-08-24 17:27:34",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux! Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about. The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps. React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!
-        What will you build? This course features hundreds of videos with dozens of custom diagrams to help you understand how React and Redux work.  No prior experience with either is necessary. Through tireless, patient explanations and many interesting practical examples, you'll learn the fundamentals of building dynamic and live web apps using React. Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge.  You'll find plenty of discussion added in to help you understand exactly when and where to use each feature of React and Redux. My guarantee to you: there is no other course online that teaches more features of React and Redux.  This is the most comprehensive resource there is. Below is a partial list of the topics you'll find in this course: Master the fundamental features of React, including JSX, state, and props From square one, understand how to build reusable components Dive into the source code of Redux to understand how it works behind the scenes Test your knowledge and hone your skills with numerous coding exercises Integrate React with advanced browser features, even geolocation API's! Use popular styling libraries to build beautiful apps Master different techniques of deployment so you can show off the apps you build! See different methods of building UI's through composition of components"
+        "thumbnail_url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Congratulations!  You've found the most popular, most complete, and most up-to-date resource online for learning React and Redux!
+
+        Thousands of other engineers have learned React and Redux, and you can too.  This course uses a time-tested, battle-proven method to make sure you understand exactly how React and Redux work, and will get you a new job working as a software engineer or help you build that app you've always been dreaming about.
+        
+        The difference between this course and all the others: you will understand the design patterns used by top companies to build massively popular web apps.
+        
+        React is the most popular Javascript library of the last five years, and the job market is still hotter than ever.  Companies large and small can't hire engineers who understand React and Redux fast enough, and salaries for engineers are at an all time high.  It's a great time to learn React!
+        
+        ----------------------
+        
+        What will you build?
+        
+        This course features hundreds of videos with dozens of custom diagrams to help you understand how React and Redux work.  No prior experience with either is necessary. Through tireless, patient explanations and many interesting practical examples, you'll learn the fundamentals of building dynamic and live web apps using React.
+        
+        Each topic included in this course is added incrementally, to make sure that you have a solid foundation of knowledge.  You'll find plenty of discussion added in to help you understand exactly when and where to use each feature of React and Redux.
+        
+        My guarantee to you: there is no other course online that teaches more features of React and Redux.  This is the most comprehensive resource there is."
     },
     {
         "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
@@ -56,15 +71,43 @@
             "badge": "Excellent"
         },
         "total_view": 400,
-        "title": "Tucker Carlson Swears Vladimir Putin Is Winning The War In Ukraine",
+        "title": "React - The Complete Guide",
         "author": {
             "name": "Jennifer Wood",
             "published_date": "2022-08-30 16:38:45",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/k8XBcMX/unsplash-Eh-Tc-C9s-YXsw-15.png",
-        "image_url": "https://i.ibb.co/BZZ5WKv/unsplash-Eh-Tc-C9s-YXsw-4.png",
-        "details": "Tucker Carlson has rarely met a dictator's ass he didn't want to kiss, and Vladimir Putin is at the very top of that puckering up list. The Fox News host is something of a folk hero in Russia: Because of the pro-Putin propaganda he so often spews, the Kremlin has encouraged Russia's state TV to air as much of Tucker's face as possible — and they're certain to love his latest rant about how Putin is winning the war in Ukraine, which does not seem to be the case. But on Fox News, what Tucker says goes."
+        "thumbnail_url": "https://images.unsplash.com/photo-1569748130764-3fed0c102c59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1569748130764-3fed0c102c59?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "This course is fully up-to-date with React 18 (the latest version of React)!
+
+        It was completely updated and re-recorded from the ground up - it teaches the very latest version of React with all the core, modern features you need to know!
+        
+        ---
+        
+        This course also comes with two paths which you can take: The complete path (full >40h course) and the summary path (~4h summary module) - you can choose the path that best fits your time requirements! :-)
+        
+        ---
+        
+        React.js is THE most popular JavaScript library you can use and learn these days to build modern, reactive user interfaces for the web.
+        
+        This course teaches you React in-depth, from the ground up, step by step by diving into all the core basics, exploring tons of examples and also introducing you to advanced concepts as well.
+        
+        You'll get all the theory, tons of examples and demos, assignments and exercises and tons of important knowledge that is skipped by most other resources - after all, there is a reason why this course is that huge! :)
+        
+        And in case you don't even know why you would want to learn React and you're just here because of some ad or the algorithm - no worries: ReactJS is a key technology as a web developer and in this course I will also explain WHY it's that important!
+        
+        
+        
+        Welcome to React - The Complete Guide
+        
+        This course will teach you React.js in a practice-oriented way, using all the latest patterns and best practices you need. You will learn all the key fundamentals as well as advanced concepts and related topics to turn you into a React.js developer.
+        
+        This is a huge course because it really covers EVERYTHING you need to know and learn to become a React.js developer!
+        
+        No matter if you know nothing about React or if you already got some basic React knowledge (not required but also not a problem), you will get tons of useful information and knowledge out of this course!
+        
+        My goal with this course is to ensure that you feel confident working with React, so that you can apply for React jobs, use it in your own projects or simply enhance your portfolio as a developer - whatever your goal is: This course gets you there!"
     },
     {
         "_id": "f69a695f037cd9484cecaea37ca71012",
@@ -122,15 +165,23 @@
             "badge": "Excellent"
         },
         "total_view": 980,
-        "title": "Joe Biden announces $3 billion in Ukraine weapons aid",
+        "title": "Complete React Developer in 2022",
         "author": {
             "name": "system",
             "published_date": "2022-08-24 23:15:00",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/HXC719r/unsplash-Eh-Tc-C9s-YXsw-19.png",
-        "image_url": "https://i.ibb.co/T0PnZxD/unsplash-Eh-Tc-C9s-YXsw-8.png",
-        "details": "WASHINGTON: President Joe Biden announced nearly $3 billion in military aid to Kyiv on Wednesday -- the biggest US package so far -- to mark Ukraine's independence day, six months after Russia invaded the country. The package aims to fortify Ukraine's military over the coming two years by committing the production and... read full story"
+        "thumbnail_url": "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "image_url": "https://images.unsplash.com/photo-1552308995-2baac1ad5490?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+        "details": "Just FULLY updated and re-recorded with all new React features for 2022 (React v18)! Join a live online community of over 600,000+ developers and a course taught by industry experts that have actually worked both in Silicon Valley and Toronto with React.js.
+
+        Using the latest version of React (React 18), this course is focused on efficiency. Never spend time on confusing, out of date, incomplete tutorials anymore. Graduates of Andrei’s courses are now working at Google, Tesla, Amazon, Apple, IBM, JP Morgan, Facebook, + other top tech companies.
+        
+        We guarantee you this is the most comprehensive online resource on React. This project based course will introduce you to all of the modern toolchain of a React developer in 2022. Along the way, we will build a massive e-commerce application similar to Shopify using React, Redux, React Hooks, React Suspense, React Router, GraphQL, Context API, Firebase, Redux-Saga, Stripe + more. This is going to be a full stack app (MERN stack), using Firebase.
+        
+        The curriculum is going to be very hands on as we walk you from start to finish of releasing a professional React project all the way into production. We will start from the very beginning by teaching you React Basics and then going into advanced topics so you can make good decisions on architecture and tools on any of your future ReactJS projects.
+        
+        All code is going to be provided step by step and even if you don’t like to code along, you will get access to the the full master project code so anyone signed up for the course will have their own project to put on their portfolio right away."
     },
     {
         "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
@@ -320,15 +371,15 @@
             "badge": "Excellent"
         },
         "total_view": 0,
-        "title": "Biden announces $3 billion Ukraine military aid package on its Independence Day",
+        "title": "React Tutorial and Projects Course (2022)",
         "author": {
             "name": "Reuters",
             "published_date": "2022-08-25 03:09:16",
             "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
         },
-        "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-        "details": "Published: 25 Aug 2022, 09: 09 US president Joe Biden speaks as he attends the first virtual meeting of the   I2U2   group with Israeli prime minister Yair Lapid and leaders of India and the United Arab Emirates, in Jerusalem 14 July, 2022ReutersUS President Joe Biden marked Ukraine's Independence Day on Wednesday with $3 billion in security assistance, Washington's largest aid package since Russia's invasion six months ago but one that could take months or even years to arrive in Kyiv.The aid announcement came as US officials warned that Russia appeared to be planning to launch fresh attacks in coming days on Ukraine's civilian infrastructure and government facilities."
+        "thumbnail_url": "https://images.unsplash.com/photo-1591267990532-e5bdb1b0ceb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=827&q=80",
+        "image_url": "https://images.unsplash.com/photo-1591267990532-e5bdb1b0ceb8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=827&q=80",
+        "details": "React was released by Facebook's web development team in 2013 as a view library. React is one of the best choices for building modern web applications. React has a slim API, a robust and evolving ecosystem and a great community. In this course we will be learning React by creating various projects.If you want to learn more than just same old tutorial and instead create interesting projects using React.js this course is for you. During the course we will also cover redux-toolkit, which is the latest flavor of good old redux and build an interesting project with it. After each tutorial section we will build few projects to put see theory in action. You are not expected to build all projects, but the more course projects, you will complete the easier it's going to be to build your own applications, since you will know how to implement certain features in react."
     },
     {
         "_id": "30af81e91ab3eafc0bcae0de62f55d5c",
