@@ -16,6 +16,11 @@ app.get('/categories', (req, res) => {
     res.send(categories)
 })
 
+
+app.get('/courses', (req, res) => {
+    res.send(courses)
+})
+
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     if (id === '05') {
@@ -24,10 +29,6 @@ app.get('/category/:id', (req, res) => {
         const categoryCourses = courses.filter(course => course.category_id === id);
         res.send(categoryCourses)
     }
-})
-
-app.get('/courses', (req, res) => {
-    res.send(courses)
 })
 
 app.get('/courses/:id', (req, res) => {
